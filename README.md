@@ -37,3 +37,8 @@ Soundify is built as a single HTML file containing:
 
 ### Installation
 
+1. Download the `index.html` file
+2. Open it in any web browser
+
+That's it! No build process, no dependencies, no installation required.
+
