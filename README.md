@@ -92,3 +92,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built as a learning exercise for modern web development techniques
 - Sample music data is for demonstration purposes only
 
+---
+
+Created with ❤️ by [Yeswanth]
