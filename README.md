@@ -42,3 +42,11 @@ Soundify is built as a single HTML file containing:
 
 That's it! No build process, no dependencies, no installation required.
 
+## 🎮 How to Use
+
+- **Play a Song**: Click on any track in the "Popular Tracks" section
+- **Play an Album**: Click the play button on any album in the "Recently Played" section
+- **Pause/Resume**: Click the play/pause button in the player control bar
+- **Like a Song**: Click the heart icon next to the currently playing song
+- **Adjust Volume**: Use the volume slider in the bottom right corner
+
