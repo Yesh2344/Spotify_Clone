@@ -29,3 +29,9 @@ Soundify is built as a single HTML file containing:
   - Playback controls
   - UI state management
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- A modern web browser (Chrome, Firefox, Safari, Edge)
+
