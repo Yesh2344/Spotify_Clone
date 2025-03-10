@@ -14,3 +14,18 @@ A lightweight, single-file Spotify-inspired music player built with HTML, CSS, a
 - **Volume Control** - Adjust audio playback volume
 - **Progress Tracking** - Visual progress bar for song playback
 
+## 📋 Implementation Details
+
+Soundify is built as a single HTML file containing:
+
+- **HTML5** structure with semantic elements
+- **CSS3** for styling, including:
+  - CSS Grid for layout
+  - Flexbox for component alignment
+  - CSS Variables for consistent theming
+  - Responsive design with media queries
+- **JavaScript** for functionality:
+  - Dynamic song loading
+  - Playback controls
+  - UI state management
+
