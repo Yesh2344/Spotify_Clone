@@ -50,3 +50,25 @@ That's it! No build process, no dependencies, no installation required.
 - **Like a Song**: Click the heart icon next to the currently playing song
 - **Adjust Volume**: Use the volume slider in the bottom right corner
 
+## 🎨 Customization
+
+You can easily customize Soundify by modifying the CSS variables at the top of the style section:
+
+```css
+:root {
+    --primary: #1DB954;    /* Change the accent color */
+    --dark: #121212;       /* Main background color */
+    --light-dark: #282828; /* Secondary background color */
+    --light-gray: #b3b3b3; /* Text color for secondary text */
+    --white: #FFFFFF;      /* Primary text color */
+}
+```
+
+## 🔮 Future Enhancements
+
+- Add actual audio playback functionality
+- Implement search capability
+- Create playlist management
+- Add user authentication
+- Integrate with music streaming APIs
+
