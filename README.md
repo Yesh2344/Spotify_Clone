@@ -82,3 +82,7 @@ This project demonstrates several key web development concepts:
 - DOM manipulation with vanilla JavaScript
 - Event handling and UI state management
 
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
