@@ -86,3 +86,9 @@ This project demonstrates several key web development concepts:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 🙏 Acknowledgements
+
+- Inspired by Spotify's user interface
+- Built as a learning exercise for modern web development techniques
+- Sample music data is for demonstration purposes only
+
