@@ -97,4 +97,4 @@ Created with ❤️ by [Yeswanth]
 
 ## Copyrights
 
-All Rights Reserved
+All Rights Reserved @Yeswanth Soma
