@@ -93,8 +93,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Sample music data is for demonstration purposes only
 ---
 
+
 Created with ❤️ by [Yeswanth]
 
 ## Copyrights
 
 All Rights Reserved @Yeswanth Soma
+
+## Contact
+
+Eamil:yeswanthsoma83@gmail.com
+Ema
