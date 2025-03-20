@@ -72,15 +72,7 @@ You can easily customize Soundify by modifying the CSS variables at the top of t
 - Add user authentication
 - Integrate with music streaming APIs
 
-## 📚 Learning Resources
 
-This project demonstrates several key web development concepts:
-
-- Single-page application structure
-- CSS Grid and Flexbox layout techniques
-- SVG icons for lightweight, scalable UI elements
-- DOM manipulation with vanilla JavaScript
-- Event handling and UI state management
 
 ## 📝 License
 
